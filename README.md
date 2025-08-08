@@ -6,6 +6,7 @@
 
 ## GitHub Repository
 [Project Repository](https://github.com/xuang7/112finalproject?tab=readme-ov-file#readme)
+<img width="963" height="940" alt="Screenshot 2025-08-08 at 12 49 01 AM" src="https://github.com/user-attachments/assets/83663113-594b-44f8-969d-040d75a8b411" />
 
 ---
 
@@ -99,6 +100,5 @@ Special thanks to course instructors and open-source communities for providing v
  git clone https://github.com/xuang7/112finalproject.git
  cd 112finalproject
  python -m http.server 8000
- http://localhost:8000```
-
----
+ http://localhost:8000
+```
